@@ -1,0 +1,3 @@
+/Users/knowledge/Developer/AlphaStrong/build/CMakeFiles/rebuild_cache.dir
+/Users/knowledge/Developer/AlphaStrong/build/CMakeFiles/edit_cache.dir
+/Users/knowledge/Developer/AlphaStrong/build/CMakeFiles/ALPHA_STRONG.dir
